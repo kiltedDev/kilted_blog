@@ -9,7 +9,6 @@ gem 'jquery-rails'
 gem 'dotenv-rails'
 gem 'react-rails',  '2.4.7'
 
-
 group :development do
   gem 'listen',                 '~> 3.0.5'
   gem 'spring'
